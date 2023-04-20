@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m Berk!
-- 👀 I’m interested in software development and computer networking.
+- 👀 I’m interested in mobile app development.
 - 🌱 Currently focusing on Swift and iOS/iPadOS development.
 
 <!---
