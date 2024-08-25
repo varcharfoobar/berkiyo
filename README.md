@@ -1,5 +1,3 @@
-- 👋 Hello there!
-- 📱 I'm currently working on mobile app development (mostly closed source).
 - 👨‍💻 Published Android apps --> [Play Store](https://play.google.com/store/apps/developer?id=Polydez)
 - 👨‍💻 Published iOS apps --> http://appgallery.io/polydez
 
