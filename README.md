@@ -1,5 +1,5 @@
-- 👨‍💻 Published iOS apps --> [Apple App Store](https://apps.apple.com/us/developer/berk-dogan/id1683312256)
-- 👨‍💻 Published Android apps --> [Apple App Store](https://play.google.com/store/apps/developer?id=Polydez) 
+- 👨‍💻 Published iOS apps --> [App Store](https://apps.apple.com/us/developer/berk-dogan/id1683312256)
+- 👨‍💻 Published Android apps --> [Play Store](https://play.google.com/store/apps/developer?id=Polydez) 
 - 🌱 Currently working on Mobile App Development with Flutter
 
 <!---
