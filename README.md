@@ -1,4 +1,3 @@
-**Berk Doğan**
 
 👨‍💻 Mobile App Developer
 
